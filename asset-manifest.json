@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-app/static/css/main.e908bf7e.css",
-    "main.js": "/my-app/static/js/main.37cee87f.js",
+    "main.js": "/my-app/static/js/main.89f74f21.js",
     "static/media/mairies.csv": "/my-app/static/media/mairies.5cde443d86451dd1143b.csv",
     "static/media/image.png": "/my-app/static/media/image.e68e7205ae278c91eb14.png",
     "static/media/surmes.jpg": "/my-app/static/media/surmes.cee2f4f93cb3af5f2cd6.jpg",
@@ -10,10 +10,10 @@
     "static/media/photo.jpg": "/my-app/static/media/photo.a2694c80a31d8964c7f7.jpg",
     "index.html": "/my-app/index.html",
     "main.e908bf7e.css.map": "/my-app/static/css/main.e908bf7e.css.map",
-    "main.37cee87f.js.map": "/my-app/static/js/main.37cee87f.js.map"
+    "main.89f74f21.js.map": "/my-app/static/js/main.89f74f21.js.map"
   },
   "entrypoints": [
     "static/css/main.e908bf7e.css",
-    "static/js/main.37cee87f.js"
+    "static/js/main.89f74f21.js"
   ]
 }
